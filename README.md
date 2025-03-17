@@ -24,7 +24,7 @@ pip install telethon
 
 1. **Depoyu Kopyalayın**
    ```sh
-   git clone https://github.com/kullaniciadi/tgdashboard.git
+   git clone https://github.com/ugurraydogan/tgdashboard.git
    cd tgdashboard
    ```
 

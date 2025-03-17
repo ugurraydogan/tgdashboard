@@ -1,0 +1,9 @@
+{
+    "api_id": "TELEGRAM_API_ID",
+    "api_hash": "TELEGRAM_API_HASH",
+    "phone": "+901234567890",
+    "keywords": ["örnek", "anahtar", "kelime"],
+    "groups": ["@grupadi"],
+    "save_results": true,
+    "results_file": "results.json"
+}
